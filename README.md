@@ -1,0 +1,2 @@
+# django-zemlyanka
+python programming
